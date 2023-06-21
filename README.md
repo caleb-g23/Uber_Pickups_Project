@@ -1,7 +1,7 @@
 
 # UBER PICKUPS DATA ANALYSIS
 
-### A look at the weather data
+### A look at the Weather Data API from: https://www.visualcrossing.com/weather-history/new%20york%20city/metric/2015-01-01/2015-06-30 
 ![alt_text](https://github.com/caleb-g23/Uber_Weather_Project/blob/main/Resources/Weather_API_Summary.png)
 
 ## Intro
