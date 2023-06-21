@@ -1,15 +1,25 @@
 
 # UBER PICKUPS DATA ANALYSIS
 
+### A look at the weather data
+![alt_text](https://github.com/caleb-g23/Uber_Weather_Project/blob/main/Resources/Weather_API_Summary.png)
+
 ## Intro
 Our project takes a look at Uber pickup data in New York City from January 1, 2015 to June 30, 2015. We decided to use a data set that we found on Kaggle and see how different factors impact pickups. The questions we decided to ask are the following:
-How does precipitation impact pickups?
-Does snow have a different effect than rain?
-How does wind speed affect pickups?
-Does relative temperature affect pickups?
-How does each borough affect pickups?
-What impact does the day of the week have on pickups? Weekend vs Weekday?
-How does an average day compare to an average holiday?
+
+- How does precipitation impact pickups?
+
+- Does snow have a different effect than rain?
+
+- How does wind speed affect pickups?
+
+- Does relative temperature affect pickups?
+
+- How does each borough affect pickups?
+
+- What impact does the day of the week have on pickups? Weekend vs Weekday?
+
+- How does an average day compare to an average holiday?
 
 ## Analysis
 Our data set gave us three different types of rain precipitation and data on snowy days. The three types of rain data that it gave were days with 1 hour of rain, days with 6 hours of rain, and days with 24 hours of rain. We took the total number of pickups per each day with that type of precipitation and then averaged them out. What we found was increased periods of rain led to a greater number of average pickups per day. Days with no precipitation still had a greater average number of pickups compared to days with rain. What was surprising was how big of a difference snow played into the average number of pickups. Snowy weather had the greatest number of average pickups per day. Something that would help give our data even greater accuracy would be if we had individual driver and rider data. We would be able to see if more uber rides are requested for shorter periods of time during inclement weather or if people are using uber to and from locations during inclement weather versus days of good weather.  
